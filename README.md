@@ -9,20 +9,20 @@ Hello! I am Robert John D. Cera, a 19-year-old second-year college student takin
 
 # Portfolio Sections
 The site is organized into the following sections for easy navigation:
--Home
--About
--Hobby
--Skills
--Contact
+Home
+About
+Hobby
+Skills
+Contact
 
 # Technology Used
--HTML
--CSS
--JavaScript 
--Github
--Visual Studio
--Font Awesome
--Google Fonts
+HTML
+CSS
+JavaScript 
+Github
+Visual Studio
+Front Awesome
+Google Fonts
 
 # How to Contact
 Method	Details
